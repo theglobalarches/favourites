@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+<a href="#" onclick="gtag('event', 'click-button', { 'event_category': 'page-authlogin', 'event_label': 'SubmitButton' });">Click Here</a>
+
+
 You can use the [editor on GitHub](https://github.com/theglobalarches/favourites/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
