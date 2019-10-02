@@ -1,4 +1,4 @@
-# ❤️ A selection of Ronald's personal Favourites  ❤️
+# ❤️ A selection of Ronald's personal favourites  ❤️
 
 ## Stainless Steel Drinking Straws
 
