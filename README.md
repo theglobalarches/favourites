@@ -1,4 +1,4 @@
-# ❤️ Ronald's personal favourites  ❤️
+# ❤️ Ronald's fav's ❤️
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
