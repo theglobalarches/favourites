@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJLCQZ997P"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -23,7 +23,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   gtag('config', 'G-XJLCQZ997P');
 </script>
-
+-->
 
 ## Stainless Steel Drinking Straws
 
