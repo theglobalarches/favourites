@@ -14,6 +14,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJLCQZ997P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XJLCQZ997P');
+</script>
+
+
 ## Stainless Steel Drinking Straws
 
 Who can deal with McDonalds paper straw's? Keep a few of these stainless steel drinking straws in the glove box so you can save the world while enjoying your drive-thu milkshake!
